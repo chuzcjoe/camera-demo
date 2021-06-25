@@ -1,4 +1,4 @@
-main demo
+main2 demo
 add first line
 test
 add bottom line
